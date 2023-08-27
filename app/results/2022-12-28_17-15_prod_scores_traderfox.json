@@ -1,0 +1,852 @@
+{
+  "ASML": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 12,
+    "score_call": 5,
+    "score_piotroski-f": 7,
+    "score_aaqs": 10,
+    "score_divadel": 1,
+    "score_hgi": 2
+  },
+  "Abbott Lab": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 8,
+    "score_call": 13,
+    "score_piotroski-f": 9,
+    "score_aaqs": 4,
+    "score_divadel": 3,
+    "score_hgi": 7
+  },
+  "Accenture": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 9,
+    "score_call": 7,
+    "score_piotroski-f": 6,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 6
+  },
+  "Adobe": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 7,
+    "score_call": 7,
+    "score_piotroski-f": 6,
+    "score_aaqs": 10,
+    "score_divadel": 0,
+    "score_hgi": 8
+  },
+  "Alphabet": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 6,
+    "score_call": 5,
+    "score_piotroski-f": 8,
+    "score_aaqs": 8,
+    "score_divadel": 0,
+    "score_hgi": 7
+  },
+  "Altria": {
+    "score_qual": 9,
+    "score_div": 12,
+    "score_growth": 9,
+    "score_call": 11,
+    "score_piotroski-f": 6,
+    "score_aaqs": 5,
+    "score_divadel": 3,
+    "score_hgi": 9
+  },
+  "Amazon": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 6,
+    "score_call": 6,
+    "score_piotroski-f": 7,
+    "score_aaqs": 7,
+    "score_divadel": 0,
+    "score_hgi": 5
+  },
+  "American Tower": {
+    "score_qual": 14,
+    "score_div": 12,
+    "score_growth": 5,
+    "score_call": 11,
+    "score_piotroski-f": 4,
+    "score_aaqs": 7,
+    "score_divadel": 2,
+    "score_hgi": 2
+  },
+  "Ansys": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 6,
+    "score_call": 6,
+    "score_piotroski-f": 5,
+    "score_aaqs": 10,
+    "score_divadel": 0,
+    "score_hgi": 7
+  },
+  "Automatic Data Processing": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 9,
+    "score_call": 13,
+    "score_piotroski-f": 6,
+    "score_aaqs": 9,
+    "score_divadel": 4,
+    "score_hgi": 4
+  },
+  "BE Semi": {
+    "score_qual": 12,
+    "score_div": 9,
+    "score_growth": 10,
+    "score_call": 3,
+    "score_piotroski-f": 8,
+    "score_aaqs": 6,
+    "score_divadel": 1,
+    "score_hgi": 4
+  },
+  "Berkshire": {
+    "score_qual": 12,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 7,
+    "score_call": 13,
+    "score_piotroski-f": 6,
+    "score_aaqs": 6,
+    "score_divadel": 0,
+    "score_hgi": 6
+  },
+  "Blackrock": {
+    "score_qual": 15,
+    "score_div": 14,
+    "score_growth": 7,
+    "score_call": 10,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 6
+  },
+  "Brookfield Infrastructure Partners": {
+    "score_qual": 10,
+    "score_div": 10,
+    "score_growth": 7,
+    "score_call": 11,
+    "score_piotroski-f": 5,
+    "score_aaqs": 6,
+    "score_divadel": 2,
+    "score_hgi": 4
+  },
+  "Church & Dwight": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 6,
+    "score_call": 14,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 5
+  },
+  "Clearway Energy": {
+    "score_qual": 8,
+    "score_div": 10,
+    "score_growth": 7,
+    "score_call": 10,
+    "score_piotroski-f": 6,
+    "score_aaqs": 8,
+    "score_divadel": 2,
+    "score_hgi": 3
+  },
+  "Cloudflare": {
+    "score_qual": 3,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 5,
+    "score_call": 1,
+    "score_piotroski-f": 4,
+    "score_aaqs": 1,
+    "score_divadel": 0,
+    "score_hgi": 7
+  },
+  "Colgate-Palmolive": {
+    "score_qual": 11,
+    "score_div": 14,
+    "score_growth": 7,
+    "score_call": 14,
+    "score_piotroski-f": 7,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 4
+  },
+  "Coloplast": {
+    "score_qual": 13,
+    "score_div": 9,
+    "score_growth": 8,
+    "score_call": 6,
+    "score_piotroski-f": 6,
+    "score_aaqs": 9,
+    "score_divadel": 2,
+    "score_hgi": 4
+  },
+  "Copart": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 12,
+    "score_call": 13,
+    "score_piotroski-f": 7,
+    "score_aaqs": 7,
+    "score_divadel": 0,
+    "score_hgi": 7
+  },
+  "Crown Castle": {
+    "score_qual": 14,
+    "score_div": 11,
+    "score_growth": 5,
+    "score_call": 12,
+    "score_piotroski-f": 7,
+    "score_aaqs": 7,
+    "score_divadel": 2,
+    "score_hgi": 2
+  },
+  "DSV": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 12,
+    "score_call": 6,
+    "score_piotroski-f": 6,
+    "score_aaqs": 9,
+    "score_divadel": 2,
+    "score_hgi": 13
+  },
+  "Daikin Ind": {
+    "score_qual": 7,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 4,
+    "score_call": 4,
+    "score_piotroski-f": 5,
+    "score_aaqs": 6,
+    "score_divadel": 1,
+    "score_hgi": 4
+  },
+  "Danaher Corp": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 10,
+    "score_piotroski-f": 7,
+    "score_aaqs": 9,
+    "score_divadel": 1,
+    "score_hgi": 7
+  },
+  "Danone": {
+    "score_qual": 6,
+    "score_div": 12,
+    "score_growth": 3,
+    "score_call": 12,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 2,
+    "score_hgi": 1
+  },
+  "Deutsche B(\u00c3\u00b6|oe|\\xc3\\xb6|\\D)rse": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 12,
+    "score_call": 15,
+    "score_piotroski-f": 3,
+    "score_aaqs": 8,
+    "score_divadel": 3,
+    "score_hgi": 5
+  },
+  "Deutsche Post": {
+    "score_qual": 13,
+    "score_div": 13,
+    "score_growth": 10,
+    "score_call": 9,
+    "score_piotroski-f": 9,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 8
+  },
+  "Deutsche Telekom": {
+    "score_qual": 10,
+    "score_div": 11,
+    "score_growth": 8,
+    "score_call": 14,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 3,
+    "score_hgi": 5
+  },
+  "Digital Realty Trust": {
+    "score_qual": 11,
+    "score_div": 11,
+    "score_growth": 5,
+    "score_call": 8,
+    "score_piotroski-f": 6,
+    "score_aaqs": 6,
+    "score_divadel": 3,
+    "score_hgi": 4
+  },
+  "Eli Lilly": {
+    "score_qual": 11,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 8,
+    "score_call": 14,
+    "score_piotroski-f": 6,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 3
+  },
+  "Everest Re": {
+    "score_qual": 12,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 13,
+    "score_call": 11,
+    "score_piotroski-f": 7,
+    "score_aaqs": 4,
+    "score_divadel": 3,
+    "score_hgi": 6
+  },
+  "Evolution": {
+    "score_qual": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-quality-score-result >> .number\"\n============================================================",
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 12,
+    "score_call": 6,
+    "score_piotroski-f": 7,
+    "score_aaqs": 7,
+    "score_divadel": 2,
+    "score_hgi": 10
+  },
+  "Factset": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 8,
+    "score_call": 14,
+    "score_piotroski-f": 5,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 3
+  },
+  "Fortinet": {
+    "score_qual": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-quality-score-result >> .number\"\n============================================================",
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 5,
+    "score_piotroski-f": 5,
+    "score_aaqs": 9,
+    "score_divadel": 0,
+    "score_hgi": 11
+  },
+  "Fuchs Petrolub": {
+    "score_qual": 10,
+    "score_div": 14,
+    "score_growth": 11,
+    "score_call": 11,
+    "score_piotroski-f": 7,
+    "score_aaqs": 8,
+    "score_divadel": 4,
+    "score_hgi": 6
+  },
+  "General Dynamics": {
+    "score_qual": 11,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 13,
+    "score_piotroski-f": 7,
+    "score_aaqs": 8,
+    "score_divadel": 4,
+    "score_hgi": 5
+  },
+  "Genmab A/S": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 15,
+    "score_call": 6,
+    "score_piotroski-f": 4,
+    "score_aaqs": 8,
+    "score_divadel": 0,
+    "score_hgi": 9
+  },
+  "Hess": {
+    "score_qual": 8,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 13,
+    "score_call": 5,
+    "score_piotroski-f": 7,
+    "score_aaqs": 5,
+    "score_divadel": 2,
+    "score_hgi": 12
+  },
+  "Home Depot": {
+    "score_qual": 14,
+    "score_div": 13,
+    "score_growth": 9,
+    "score_call": 13,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 3
+  },
+  "Hormel": {
+    "score_qual": 11,
+    "score_div": 15,
+    "score_growth": 8,
+    "score_call": 13,
+    "score_piotroski-f": 7,
+    "score_aaqs": 8,
+    "score_divadel": 4,
+    "score_hgi": 6
+  },
+  "Hoya": {
+    "score_qual": 12,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 4,
+    "score_call": 8,
+    "score_piotroski-f": 7,
+    "score_aaqs": 6,
+    "score_divadel": 1,
+    "score_hgi": 7
+  },
+  "Huntington Ingalls": {
+    "score_qual": 9,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 7,
+    "score_call": 10,
+    "score_piotroski-f": 5,
+    "score_aaqs": 6,
+    "score_divadel": 3,
+    "score_hgi": 4
+  },
+  "J.M. Smucker": {
+    "score_qual": 10,
+    "score_div": 14,
+    "score_growth": 6,
+    "score_call": 14,
+    "score_piotroski-f": 6,
+    "score_aaqs": 6,
+    "score_divadel": 4,
+    "score_hgi": 5
+  },
+  "Johnson & Johnson": {
+    "score_qual": 12,
+    "score_div": 15,
+    "score_growth": 11,
+    "score_call": 14,
+    "score_piotroski-f": 9,
+    "score_aaqs": 8,
+    "score_divadel": 4,
+    "score_hgi": 8
+  },
+  "KLA(-Tencor| Corp|C|)": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 14,
+    "score_call": 5,
+    "score_piotroski-f": 6,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 8
+  },
+  "Keurig Dr Pepper": {
+    "score_qual": 10,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 10,
+    "score_piotroski-f": 6,
+    "score_aaqs": 9,
+    "score_divadel": 3,
+    "score_hgi": 5
+  },
+  "Kimberly-Clark": {
+    "score_qual": 11,
+    "score_div": 14,
+    "score_growth": 9,
+    "score_call": 12,
+    "score_piotroski-f": 6,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 3
+  },
+  "Kroger": {
+    "score_qual": 9,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 5,
+    "score_call": 13,
+    "score_piotroski-f": 4,
+    "score_aaqs": 6,
+    "score_divadel": 4,
+    "score_hgi": 4
+  },
+  "LVMH Moet Hennessy Louis Vuitton SE": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 7,
+    "score_call": 10,
+    "score_piotroski-f": 8,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 0
+  },
+  "Lam Research": {
+    "score_qual": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-quality-score-result >> .number\"\n============================================================",
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 5,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 2,
+    "score_hgi": 6
+  },
+  "Lattice Semi": {
+    "score_qual": 11,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 13,
+    "score_call": 4,
+    "score_piotroski-f": 7,
+    "score_aaqs": 4,
+    "score_divadel": 0,
+    "score_hgi": 9
+  },
+  "Linde": {
+    "score_qual": 9,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 13,
+    "score_call": 8,
+    "score_piotroski-f": 6,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 6
+  },
+  "Lowe(`|'|)s Comp": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 6,
+    "score_call": 9,
+    "score_piotroski-f": 7,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 6
+  },
+  "MSCI": {
+    "score_qual": 11,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 9,
+    "score_call": 7,
+    "score_piotroski-f": 6,
+    "score_aaqs": 10,
+    "score_divadel": 2,
+    "score_hgi": 6
+  },
+  "Mercadolibre": {
+    "score_qual": 8,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 11,
+    "score_call": 4,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 0,
+    "score_hgi": 9
+  },
+  "Merck & Co": {
+    "score_qual": 13,
+    "score_div": 14,
+    "score_growth": 11,
+    "score_call": 14,
+    "score_piotroski-f": 7,
+    "score_aaqs": 8,
+    "score_divadel": 4,
+    "score_hgi": 8
+  },
+  "Merck KGaA": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 11,
+    "score_call": 14,
+    "score_piotroski-f": 9,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 8
+  },
+  "Microsoft": {
+    "score_qual": 15,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 6,
+    "score_call": 10,
+    "score_piotroski-f": 6,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 7
+  },
+  "National Bank of Canada": {
+    "score_qual": 8,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 8,
+    "score_call": 2,
+    "score_piotroski-f": 6,
+    "score_aaqs": 3,
+    "score_divadel": 3,
+    "score_hgi": 1
+  },
+  "NextEra Energy": {
+    "score_qual": 10,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 8,
+    "score_call": 14,
+    "score_piotroski-f": 5,
+    "score_aaqs": 4,
+    "score_divadel": 3,
+    "score_hgi": 3
+  },
+  "Northrop Grumman": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 13,
+    "score_piotroski-f": 6,
+    "score_aaqs": 6,
+    "score_divadel": 4,
+    "score_hgi": 5
+  },
+  "Novo(-| )Nordisk": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 14,
+    "score_call": 12,
+    "score_piotroski-f": 4,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 7
+  },
+  "Nvidia": {
+    "score_qual": 12,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 6,
+    "score_call": 3,
+    "score_piotroski-f": 8,
+    "score_aaqs": 10,
+    "score_divadel": 0,
+    "score_hgi": 3
+  },
+  "O'Reilly Auto": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 11,
+    "score_call": 13,
+    "score_piotroski-f": 7,
+    "score_aaqs": 10,
+    "score_divadel": 0,
+    "score_hgi": 7
+  },
+  "Old Dominion Freight Line": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 13,
+    "score_call": 8,
+    "score_piotroski-f": 8,
+    "score_aaqs": 10,
+    "score_divadel": 1,
+    "score_hgi": 8
+  },
+  "Palo Alto": {
+    "score_qual": 7,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 8,
+    "score_call": 4,
+    "score_piotroski-f": 6,
+    "score_aaqs": 4,
+    "score_divadel": 0,
+    "score_hgi": 8
+  },
+  "Procter & Gamble": {
+    "score_qual": 13,
+    "score_div": 15,
+    "score_growth": 9,
+    "score_call": 13,
+    "score_piotroski-f": 6,
+    "score_aaqs": 4,
+    "score_divadel": 4,
+    "score_hgi": 5
+  },
+  "RCI Hospitality Holdings": {
+    "score_qual": 11,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 13,
+    "score_call": 7,
+    "score_piotroski-f": 7,
+    "score_aaqs": 6,
+    "score_divadel": 1,
+    "score_hgi": 10
+  },
+  "Realty Income": {
+    "score_qual": 9,
+    "score_div": 13,
+    "score_growth": 6,
+    "score_call": 13,
+    "score_piotroski-f": 4,
+    "score_aaqs": 7,
+    "score_divadel": 3,
+    "score_hgi": 11
+  },
+  "Regeneron": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 9,
+    "score_piotroski-f": 6,
+    "score_aaqs": 7,
+    "score_divadel": 0,
+    "score_hgi": 9
+  },
+  "Roche": {
+    "score_qual": 14,
+    "score_div": 13,
+    "score_growth": 1,
+    "score_call": 13,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 0
+  },
+  "Royal Bank of Canada": {
+    "score_qual": 11,
+    "score_div": 14,
+    "score_growth": 7,
+    "score_call": 9,
+    "score_piotroski-f": 3,
+    "score_aaqs": 3,
+    "score_divadel": 3,
+    "score_hgi": 0
+  },
+  "S(\u00c3\u00bc|ue|\\xc3\\xbc|\\D)dzucker": {
+    "score_qual": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-quality-score-result >> .number\"\n============================================================",
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-growth-score-result >> .number\"\n============================================================",
+    "score_call": 11,
+    "score_piotroski-f": 7,
+    "score_aaqs": 0,
+    "score_divadel": 2,
+    "score_hgi": 7
+  },
+  "SAP": {
+    "score_qual": 14,
+    "score_div": 10,
+    "score_growth": 8,
+    "score_call": 12,
+    "score_piotroski-f": 7,
+    "score_aaqs": 7,
+    "score_divadel": 4,
+    "score_hgi": 8
+  },
+  "Seven\\s(&|+)\\sI": {
+    "score_qual": 4,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 7,
+    "score_call": 5,
+    "score_piotroski-f": 6,
+    "score_aaqs": 6,
+    "score_divadel": 2,
+    "score_hgi": 2
+  },
+  "Skyworks Solutions": {
+    "score_qual": 12,
+    "score_div": 11,
+    "score_growth": 6,
+    "score_call": 2,
+    "score_piotroski-f": 5,
+    "score_aaqs": 9,
+    "score_divadel": 3,
+    "score_hgi": 6
+  },
+  "Steel Dynamics": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 14,
+    "score_call": 5,
+    "score_piotroski-f": 7,
+    "score_aaqs": 5,
+    "score_divadel": 4,
+    "score_hgi": 12
+  },
+  "Steinhoff Int": {
+    "score_qual": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-quality-score-result >> .number\"\n============================================================",
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-growth-score-result >> .number\"\n============================================================",
+    "score_call": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-the_big_call-score-result >> .number\"\n============================================================",
+    "score_piotroski-f": 6,
+    "score_aaqs": 2,
+    "score_divadel": 1,
+    "score_hgi": 0
+  },
+  "T-Mobile US": {
+    "score_qual": 10,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 7,
+    "score_call": 12,
+    "score_piotroski-f": 5,
+    "score_aaqs": 7,
+    "score_divadel": 0,
+    "score_hgi": 4
+  },
+  "Thermo Fisher": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 9,
+    "score_call": 11,
+    "score_piotroski-f": 5,
+    "score_aaqs": 9,
+    "score_divadel": 0,
+    "score_hgi": 5
+  },
+  "Tomra Systems": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 9,
+    "score_call": 5,
+    "score_piotroski-f": 6,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 6
+  },
+  "Tractor Supply": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 12,
+    "score_call": 12,
+    "score_piotroski-f": 5,
+    "score_aaqs": 9,
+    "score_divadel": 4,
+    "score_hgi": 3
+  },
+  "Unil": {
+    "score_qual": 9,
+    "score_div": 10,
+    "score_growth": 7,
+    "score_call": 14,
+    "score_piotroski-f": 6,
+    "score_aaqs": 7,
+    "score_divadel": 3,
+    "score_hgi": 5
+  },
+  "UnitedHealth": {
+    "score_qual": 14,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 11,
+    "score_call": 14,
+    "score_piotroski-f": 7,
+    "score_aaqs": 10,
+    "score_divadel": 3,
+    "score_hgi": 6
+  },
+  "Visa": {
+    "score_qual": 13,
+    "score_div": "Timeout 5000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#tdf-dividend-score-result >> .number\"\n============================================================",
+    "score_growth": 10,
+    "score_call": 11,
+    "score_piotroski-f": 8,
+    "score_aaqs": 10,
+    "score_divadel": 2,
+    "score_hgi": 8
+  }
+}
